@@ -1,8 +1,7 @@
-#!/bin/bash
-#include <stdio.h> 
+#include <stdio.h>
 /*
- * main - print a line using of code using puts
- *
+ * main - print a lineof code using puts
+ * 
  * Return: 0
  */
 int main(void)
